@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is one of the best note application in the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shahwaix karim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2",
+    "mongoose": "7.0.3",
+    "validator": "",
+    "dotenv": "",
+    "bcrypt": "",
+    "jsonwebtoken": "",
+    "cors": ""
+  },
+  "devDependencies": {
+    "nodemon": "file:../../../../../../../../../usr/local/lib/node_modules/nodemon"
+  }
+}
